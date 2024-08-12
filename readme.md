@@ -15,7 +15,7 @@ To meet specifications, the project will require at least these files:
 * HTML export of the jupyter notebbook
 * Markdown or PDF file of the report
 
-Images or additional files needed to make your notebook or report complete can be also added.
+Images or additional files that are needed to make your notebook or report complete can be also added.
 
 ## Getting Started
 * Clone this template repository `https://github.com/eljandoubi/Predict-Bike-Sharing-Demand-with-AutoGluon.git` into AWS Sagemaker Studio (or local development).
